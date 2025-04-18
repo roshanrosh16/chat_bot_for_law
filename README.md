@@ -1,1 +1,1 @@
-# chat_bot_for_law
+# AI_Legal_chat_bot
